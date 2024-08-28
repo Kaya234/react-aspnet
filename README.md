@@ -1,7 +1,5 @@
 # Courses Demo Page (React + ASP.NET)
 
-### **Link to the demo page:** 
-
 Courses Demo Page project showcases a simple yet effective course management system using **React** for the **front-end** and **ASP.NET** for the **back-end**.\
 It provides an intuitive interface to browse through a collection of courses, filter them based on specific category, and search for relevant ones based on name or category. Each course listing includes a brief details, thumbnail, and a button to view more information.
 
